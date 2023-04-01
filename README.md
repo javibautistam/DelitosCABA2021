@@ -1,5 +1,5 @@
 # Análisis del dataset de delitos en la Ciudad de Buenos Aires (2021)
-Este proyecto es un notebook Jupyter que analiza el dataset de delitos cometidos en la Ciudad de Buenos Aires durante el año 2021. Incluye gráficos y un mapa interactivo para visualizar la distribución geográfica de los delitos.
+Este proyecto es un notebook Jupyter que analiza el dataset de delitos cometidos en la Ciudad de Buenos Aires durante el año 2021. En el análisis se utilizó Python, junto con las librerías Pandas, Matplotlib y Mapbox, para realizar las visualizaciones y gráficos necesarios, así como también para el proceso de ETL (Extracción, Transformación y Carga) de los datos.
 
 ## Instalación y uso
 Para utilizar este notebook, puedes hacerlo de dos maneras:
@@ -29,6 +29,14 @@ Puedes descargar el dataset original desde la siguiente URL: https://data.buenos
 
 ## Resultados
 El análisis incluye gráficos que muestran la cantidad de delitos cometidos por día, por mes y por tipo de delito. También se incluye un mapa interactivo que muestra la distribución geográfica de los delitos en la Ciudad de Buenos Aires durante el año 2021.
+
+## Habilidades técnicas utilizadas
+Este proyecto utilizó las siguientes habilidades técnicas:
+
+- Python: Lenguaje de programación utilizado para realizar el análisis de datos.
+- Pandas: Biblioteca de Python utilizada para manipular las tablas de datos y realizar el proceso de ETL (Extracción, Transformación y Carga) de los datos.
+- Matplotlib: Biblioteca de Python utilizada para crear visualizaciones gráficas de los datos.
+- Mapbox: Biblioteca de Python utilizada para crear un mapa interactivo que muestra la distribución geográfica de los delitos en la Ciudad de Buenos Aires durante el año 2021.
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, puedes hacer un fork del repositorio y enviar tus sugerencias a través de un pull request.
