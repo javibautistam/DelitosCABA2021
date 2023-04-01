@@ -9,7 +9,7 @@ Para visualizar el notebook en Jupyter Notebook, es necesario tener instalado Ju
 
 Una vez que tengas instalado Jupyter Notebook, puedes clonar este repositorio en tu computadora utilizando el siguiente comando:
 
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/javibautistam/DelitosCABA2021.git
 
 Luego, puedes abrir el archivo "Proyecto_Integrador.ipynb" en Jupyter Notebook y ejecutar cada celda para ver los resultados.
 
@@ -37,6 +37,14 @@ Este proyecto utilizó las siguientes habilidades técnicas:
 - Pandas: Biblioteca de Python utilizada para manipular las tablas de datos y realizar el proceso de ETL (Extracción, Transformación y Carga) de los datos.
 - Matplotlib: Biblioteca de Python utilizada para crear visualizaciones gráficas de los datos.
 - Mapbox: Biblioteca de Python utilizada para crear un mapa interactivo que muestra la distribución geográfica de los delitos en la Ciudad de Buenos Aires durante el año 2021.
+
+## Valor agregado del proyecto
+Este análisis de datos de delitos en la Ciudad de Buenos Aires puede ser útil para distintos tipos de usuarios. Algunos ejemplos son:
+
+- Las autoridades gubernamentales pueden utilizar este análisis para detectar patrones en la comisión de delitos y tomar medidas para prevenirlos en el futuro.
+- Los ciudadanos pueden utilizar este análisis para tomar precauciones en ciertas áreas o en ciertos momentos.
+- Los periodistas y los investigadores pueden utilizar este análisis para investigar tendencias y patrones en la comisión de delitos en la ciudad.
+- Los desarrolladores y científicos de datos pueden utilizar este proyecto como ejemplo para aprender cómo realizar análisis de datos utilizando las herramientas y técnicas mencionadas en el README.
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, puedes hacer un fork del repositorio y enviar tus sugerencias a través de un pull request.
