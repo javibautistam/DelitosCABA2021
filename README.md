@@ -30,8 +30,10 @@ Este proyecto incluye las siguientes visualizaciones:
 - Un gráfico de barras que muestra el top 5 de los barrios con mas homicidios.
 - Un gráfico de torta que muestra los porcentajes de la frecuencia por tipo de delito.
 - Un gráfico de torta que muestra los porcentajes de la frecuencia de uso de armas.
+- Un gráfico de barras que muestra la cantidad de delitos por mes del año.
+- Un gráfico de barras que muestra la cantidad de delitos por dia de la semana.
 - Un mapa que muestra la distribución geográfica de los delitos en la Ciudad de Buenos Aires en 2021.
-- 
+
 Aquí se muestran algunas capturas de pantalla de las visualizaciones generadas:
 ### Gráfico de barras del top 5 de los barrios con mas delitos
 ![Gráfico de barras del top 5 de los barrios con mas delitos](./img/barrasMas.jpg)
@@ -40,7 +42,7 @@ Aquí se muestran algunas capturas de pantalla de las visualizaciones generadas:
 ### Gráfico de torta por tipo de delito
 ![Gráfico de torta por tipo de delito](./img/pieTipoDelito.jpg)
 ### Mapa del delito
-![Mapa del delito](./img/pieTipoDelito.jpg)
+![Mapa del delito](./img/mapa.jpg)
 
 ## Dataset
 El dataset utilizado en este análisis es el "Registro de Delitos" publicado por el Gobierno de la Ciudad de Buenos Aires en su portal de datos abiertos. Los datos corresponden al período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2021.
