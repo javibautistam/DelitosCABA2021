@@ -22,6 +22,21 @@ Si no tienes instalado Jupyter Notebook en tu computadora, puedes visualizar el 
 - Selecciona el archivo "Proyecto_Integrador.ipynb" y haz clic en "Abrir".
 - Ejecuta cada celda para ver los resultados.
 
+## Visualizaciones
+Este proyecto incluye las siguientes visualizaciones:
+
+- Un gráfico de barras que muestra el top 5 de los barrios con mas delitos.
+- Un gráfico de barras que muestra el top 5 de los barrios "mas seguros".
+- Un gráfico de barras que muestra el top 5 de los barrios con mas homicidios.
+- Un gráfico de torta que muestra los porcentajes de la frecuencia por tipo de delito.
+- Un gráfico de torta que muestra los porcentajes de la frecuencia de uso de armas.
+- Un mapa que muestra la distribución geográfica de los delitos en la Ciudad de Buenos Aires en 2021.
+- 
+Aquí se muestran algunas capturas de pantalla de las visualizaciones generadas:
+### Gráfico de barras del top 5 de los barrios con mas delitos
+![Descripción de la imagen](./img/nombre_de_la_imagen.jpg)
+
+
 ## Dataset
 El dataset utilizado en este análisis es el "Registro de Delitos" publicado por el Gobierno de la Ciudad de Buenos Aires en su portal de datos abiertos. Los datos corresponden al período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2021.
 
