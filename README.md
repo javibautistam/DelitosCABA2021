@@ -34,8 +34,13 @@ Este proyecto incluye las siguientes visualizaciones:
 - 
 Aquí se muestran algunas capturas de pantalla de las visualizaciones generadas:
 ### Gráfico de barras del top 5 de los barrios con mas delitos
-![Descripción de la imagen](./img/nombre_de_la_imagen.jpg)
-
+![Gráfico de barras del top 5 de los barrios con mas delitos](./img/barrasMas.jpg)
+### Gráfico de barras del top 5 de los barrios mas seguros
+![Gráfico de barras del top 5 de los barrios mas seguros](./img/barrasMenos.jpg)
+### Gráfico de torta por tipo de delito
+![Gráfico de torta por tipo de delito](./img/pieTipoDelito.jpg)
+### Mapa del delito
+![Mapa del delito](./img/pieTipoDelito.jpg)
 
 ## Dataset
 El dataset utilizado en este análisis es el "Registro de Delitos" publicado por el Gobierno de la Ciudad de Buenos Aires en su portal de datos abiertos. Los datos corresponden al período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2021.
